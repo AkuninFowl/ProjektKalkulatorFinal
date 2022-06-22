@@ -1,0 +1,13 @@
+{
+    "baseUrl": "https://akuninfowl.github.io/KalkulatorBMI_MK",
+    "watchForFileChanges": false,
+    "projectId": "t5zjq8",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportFilename": "[status]_[datetime]-[name]-report",
+        "timestamp": "isoDateTime",
+        "overwrite": false,
+        "html": true,
+        "json": true
+    }
+}
